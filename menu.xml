@@ -1,0 +1,9 @@
+<menu>
+	<element x="0" y="0" image="ressource/menu/menu_fond.bmp" />
+	<element x="220" y="100" image="ressource/menu/menu_titre.bmp" />
+	<element x="590" y="300" image="ressource/menu/menu_nouveau.bmp" />
+	<element x="590" y="700" image="ressource/menu/menu_quitter.bmp" />
+	<element x="590" y="300" image="ressource/menu/menu_retour.bmp" />
+	<element x="390" y="450" image="ressource/menu/menu_perso.bmp" />
+	<element x="590" y="400" image="ressource/menu/menu_restart.bmp" />
+</menu>
